@@ -10,10 +10,10 @@
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
-- [ ] 2.  Inspect body exterior paint for defects. *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
+- [ ] 2.  **Inspect body exterior paint for defects.** *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
 - [ ] 3.  Inspect vehicle underside (front and rear) for signs of scraping, or damage.
 - [ ] 4.  Check for any obvious body panel misalignment, or large gaps.
-- [ ] 5.  Inspect wheel rims for damage.
+- [ ] 5.  **Inspect wheel rims for damage.**
 - [ ] 6.  Inspect all glass for signs of distortion, scratches, or cracks.
 - [ ] 7.  Check for proper windshield and windshield trim installation.
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
@@ -77,7 +77,7 @@
 - [ ] 1.  Check the charge port door for proper operation.
 - [ ] 2.  Check charge port indicator light.
 - [ ] 3.  Ensure the vehicle will accept a charge.
-- [ ] 4.  Check the mobile charging kit. Test it to ensure it works.
+- [ ] 4.  **Check the mobile charging kit. Test it to ensure it works.**
     -  J1772 adapter.
 	-  NEMA 5-15 120v adapter.
 	-  Mobile Connector with cable.
