@@ -3,10 +3,10 @@
 *Todoist users can import this checklist as a new Project [using this link](https://bit.ly/Model3Checklist). For more information about Todoist templates [Click Here](https://get.todoist.help/hc/en-us/articles/208821185-Importing-Exporting-Project-Templates)*
 
 ## SECTION A - Verify pre-delivery vehicle records
-- [ ] 1.  Check for the correct full name and address on your paperwork.
-- [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
-- [ ] 3.  Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-right, then tapping Software).
-- [ ] 4.  Verify that the vehicle's Monroney record matches your configuration.
+- [ ] 1.  **Check for the correct full name and address on your paperwork.**
+- [ ] 2.  **Confirm the vehicle's VIN matches your paperwork.**
+- [ ] 3.  **Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-right, then tapping Software).**
+- [ ] 4.  **Verify that the vehicle's Monroney record matches your configuration.**
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
