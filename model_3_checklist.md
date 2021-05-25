@@ -10,7 +10,7 @@
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
-- [ ] 2.  **Inspect body exterior paint for defects.** *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
+- [ ] 2.  **Inspect body exterior paint for defects (including discoloration between the bumpers and body).** *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
 - [ ] 3.  Inspect vehicle underside (front and rear) for signs of scraping, or damage.
 - [ ] 4.  Check for any obvious body panel misalignment, or large gaps.
 - [ ] 5.  **Inspect wheel rims for damage.**
